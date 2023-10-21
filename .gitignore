@@ -1,0 +1,11 @@
+__pycache__/
+build/
+venv*/
+math_cli_api_kit.egg-info/
+dist/
+
+### PyCharm ###
+.idea
+
+### VS Code ###
+.vscode/
